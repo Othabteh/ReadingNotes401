@@ -8,5 +8,7 @@ This Repo will contain my reading notes of 401 course. You can click on each cou
 [Code 401 - Advanced Software Developmentt](https://github.com/Othabteh/ReadingNotes401)
 
 
-
+| Task  |  Link |
+|---|---|
+| Node Ecosystem, TDD, CI/CD | [Read 1](https://othabteh.github.io/ReadingNotes401/class-01)  |
 
